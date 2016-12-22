@@ -1,6 +1,8 @@
 
 ### Hello World with node.js and git submodules
 ![octocat](http://i.giphy.com/TW6M5r0ncBHcQ.gif)
+
+---
 Git has a handy little way of including children git repositories within a parent repository. One reason we would want to employ this strategy is explained in their documentation.
 
 > It often happens that while working on one project, you need to use another project from within it. Perhaps it’s a library that a third party developed or that you’re developing separately and using in multiple parent projects. A common issue arises in these scenarios: you want to be able to treat the two projects as separate yet still be able to use one from within the other.
